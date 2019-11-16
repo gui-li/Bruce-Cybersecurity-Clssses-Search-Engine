@@ -28,9 +28,10 @@ The distributioin of the dataset varies depending of the web scraping methods, t
 ### Feature Extrctioin 
 Note all files in -DataCollection-
 
-*Metadata extraction including: Professor names& phone number& email address, school name, course title, year of course. File: FeatureClassification.py
-*Screenshot website into thumbnail using file Screenshot.py
-*Concatnate all csv in the folder using file Concatenate.py
+- Metadata extraction including: Professor names& phone number& email address, school name, course title, year of course. File: feature_extraction.py
+- Screenshot website into thumbnail using file Screenshot.py
+- Concatnate all csv in the folder using file Concatenate.py
+- Named Entity Recognition is also included in DataCollection folder
 
 
 ### Accessing the HTML/CSS Files

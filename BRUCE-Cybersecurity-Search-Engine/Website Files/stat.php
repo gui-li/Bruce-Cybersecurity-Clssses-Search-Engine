@@ -6,15 +6,15 @@
 try {
     $mng = new MongoDB\Driver\Manager("mongodb://localhost:27017");
     $uni = new MongoDB\Driver\Command([
-		'distinct' => 'mar1819courses',
+		'distinct' => 'nov2019',
 		'key' => 'DOMAIN',
     ]);
     $prof = new MongoDB\Driver\Command([
-		'distinct' => 'mar1819courses',
+		'distinct' => 'nov2019',
 		'key' => 'PROF',
     ]);
     $courses = new MongoDB\Driver\Command([
-		'distinct' => 'mar1819courses',
+		'distinct' => 'nov2019',
 		'key' => 'URL',
     ]);
 

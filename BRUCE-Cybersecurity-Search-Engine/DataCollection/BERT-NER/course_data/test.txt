@@ -1,0 +1,5545 @@
+-DOCSTART- -X- -X- O
+
+18-731 B-Course_number
+, O
+Spring O
+2017 O
+: O
+Network B-Course_title
+Security I-Course_title
+
+censorship O
+resilience; O
+and O
+(5) O
+new O
+technologies O
+related O
+to O
+next-generation O
+
+15-441/18-345 B-Course_number
+or O
+equivalent O
+. O
+
+Instructor: O
+Vyas B-Person
+Sekar I-Person
+
+ISE440 B-Course_number
+( O
+Spring O
+2001 O
+) O
+
+Information B-Course_title
+System I-Course_title
+Design: I-Course_title
+Object-Oriented I-Course_title
+Modeling, I-Course_title
+Analysis, I-Course_title
+and I-Course_title
+Design I-Course_title
+
+Scott B-Person
+Stoller I-Person
+
+This O
+course O
+covers O
+fundamental O
+topics O
+in O
+object-oriented O
+analysis O
+and O
+
+Perdita B-Person
+Stevens I-Person
+and O
+Rob B-Person
+Pooley I-Person
+. O
+Using B-Textbook
+UML: I-Textbook
+Software I-Textbook
+engineering I-Textbook
+with I-Textbook
+objects I-Textbook
+and I-Textbook
+components. I-Textbook
+Updated O
+edition. O
+Addison-Wesley, O
+2000 O
+. O
+
+2.4 O
+
+If O
+you O
+did O
+not O
+receive O
+them, O
+let O
+me O
+know O
+. O
+
+We O
+
+Sybase O
+can O
+be O
+accessed O
+from O
+Java O
+using O
+JDBC O
+. O
+
+user O
+interface O
+. O
+
+B649 B-Course_number
+( O
+Spring O
+1999 O
+) O
+
+Fault-Tolerance B-Course_title
+and I-Course_title
+Security I-Course_title
+of I-Course_title
+Distributed I-Course_title
+Systems I-Course_title
+
+Scott B-Person
+Stoller I-Person
+
+George B-Person
+Coulouris I-Person
+, O
+Jean B-Person
+Dollimore I-Person
+, O
+and O
+Tim B-Person
+Kindberg I-Person
+. O
+Distributed B-Textbook
+Systems: I-Textbook
+Concepts I-Textbook
+and I-Textbook
+Design, I-Textbook
+2nd I-Textbook
+edition. I-Textbook
+Addison-Wesley, O
+1994 O
+. O
+
+Randy B-Person
+Chow I-Person
+and O
+Theodore B-Person
+Johnson I-Person
+. O
+Distributed B-Textbook
+Operating I-Textbook
+Systems I-Textbook
+and I-Textbook
+Algorithms. I-Textbook
+Addison-Wesley, O
+1997 O
+. O
+
+exam O
+(69%)11.4histogram O
+
+Anonymous O
+Credit O
+Cards O
+and O
+
+26 O
+Apr O
+
+(as O
+in O
+P536 B-Course_number
+) O
+containing O
+transcripts O
+of O
+those O
+testcases, O
+or O
+to O
+scripts O
+that O
+
+The O
+grading O
+guidelines O
+said: O
+"Additional O
+
+delivered O
+more O
+than O
+once O
+(in O
+scenarios O
+in O
+which O
+a O
+server O
+crashes O
+and O
+
+1 O
+Mar O
+
+requirements O
+outlined O
+informally O
+in O
+lecture O
+(and O
+in O
+the O
+paper O
+on O
+Amoeba) O
+
+Both O
+exams O
+will O
+be O
+"in O
+class" O
+. O
+
+no O
+one O
+objected O
+to) O
+. O
+
+P436 B-Course_number
+: O
+Operating B-Course_title
+Systems I-Course_title
+
+P536 B-Course_number
+: O
+Advanced B-Course_title
+Operating I-Course_title
+Systems I-Course_title
+
+Scott B-Person
+Stoller I-Person
+
+P436 B-Course_number
+: O
+Kshitiz B-Person
+Sharma I-Person
+
+P536 B-Course_number
+: O
+Yu B-Person
+Ma I-Person
+
+Hours O
+
+On-line O
+Course O
+Evaluation O
+for O
+P436 B-Course_number
+
+The O
+textbook O
+is: O
+William B-Person
+Stallings I-Person
+, O
+Operating B-Textbook
+Systems: I-Textbook
+Internals I-Textbook
+and I-Textbook
+Design I-Textbook
+Principles, I-Textbook
+3rd I-Textbook
+edition, I-Textbook
+Prentice O
+Hall, O
+1998 O
+. O
+
+To O
+submit O
+a O
+problem O
+set, O
+either O
+email O
+it O
+to O
+os@cs.indiana.edu B-Email
+or O
+put O
+hardcopy O
+
+Midterm O
+1 O
+exam17% O
+
+P436 B-Course_number
+Statistics O
+
+midterm2 O
+(out O
+of O
+60)43.0 O
+(72%) O
+7.5histogram O
+
+Demos: O
+Recall O
+from O
+the O
+Project O
+
+Exam O
+. O
+
+discuss O
+in O
+your O
+README O
+the O
+behavior O
+of O
+your O
+cache O
+when O
+multiple O
+user O
+
+in O
+some O
+systems O
+with O
+multi-level O
+page O
+tables, O
+lower-level O
+page O
+tables O
+are O
+
+5 O
+Nov O
+
+Typo: O
+In O
+probset O
+3, O
+problem O
+2, O
+please O
+change O
+"one O
+or O
+ways" O
+to O
+"one O
+
+2:15pm! O
+
+your O
+proj O
+5 O
+submission O
+. O
+
+Exam: O
+The O
+first O
+midterm O
+exam O
+will O
+be O
+in O
+class O
+on O
+19 O
+October O
+. O
+
+You O
+also O
+need O
+to O
+add O
+code O
+in O
+exception O
+. O
+cc O
+to O
+put O
+the O
+return O
+value O
+in O
+the O
+
+12 O
+Sep O
+
+Sorry O
+for O
+the O
+confusion O
+. O
+
+(3) O
+Carefully O
+read O
+the O
+Project O
+Mechanics O
+
+B649 B-Course_number
+
+Topics B-Course_title
+in I-Course_title
+Distributed I-Course_title
+System I-Course_title
+Security I-Course_title
+
+Scott B-Person
+Stoller I-Person
+
+Yu B-Person
+Ma I-Person
+
+Charles B-Person
+Kaufman I-Person
+, O
+Radia B-Person
+Perlman I-Person
+, O
+and O
+Michael B-Person
+Speciner I-Person
+. O
+Network B-Textbook
+Security: I-Textbook
+Private I-Textbook
+Communication I-Textbook
+in I-Textbook
+a I-Textbook
+Public I-Textbook
+World I-Textbook
+(Prentice O
+Hall, O
+1995) O
+. O
+
+William B-Person
+Stallings I-Person
+. O
+Network B-Textbook
+and I-Textbook
+Internetwork I-Textbook
+Security: I-Textbook
+Principles I-Textbook
+and I-Textbook
+Practice I-Textbook
+(Prentice O
+Hall, O
+1997) O
+. O
+
+Charles B-Person
+P. I-Person
+Pfleeger I-Person
+. O
+Security B-Textbook
+in I-Textbook
+Computing I-Textbook
+(Prentice O
+Hall, O
+1997) O
+. O
+
+This O
+will O
+help O
+your O
+classmates O
+and O
+show O
+us O
+that O
+you O
+know O
+what's O
+
+of O
+a O
+system O
+with O
+bounded O
+numbers O
+of O
+runs, O
+encryptions O
+, O
+etc O
+. O
+
+protocol O
+. O
+
+msg1 O
+(i.e., O
+msg2 O
+would O
+be O
+indistinguishable O
+from O
+the O
+first O
+message O
+in O
+a O
+
+On O
+Reserve O
+in O
+Swain: O
+I O
+have O
+placed O
+the O
+Handbook O
+of O
+Applied O
+
+P436 B-Course_number
+
+Operating B-Course_title
+Systems I-Course_title
+
+Scott B-Person
+Stoller I-Person
+
+Leena B-Person
+Unnikrishnan I-Person
+
+Fall O
+1996 O
+P436 B-Course_number
+/P536 O
+Home O
+Page O
+
+Andrew B-Person
+Tanenbaum I-Person
+, O
+Modern B-Textbook
+Operating I-Textbook
+Systems I-Textbook
+(Prentice O
+Hall, O
+1992) O
+. O
+
+Week O
+of O
+Dec O
+1 O
+
+example, O
+this O
+would O
+be O
+a O
+good O
+time O
+to O
+do O
+a O
+bunch O
+of O
+problems O
+from O
+the O
+
+In O
+hw1, O
+problem O
+1 O
+is O
+worth O
+10 O
+points, O
+and O
+the O
+
+Homework O
+1 O
+was O
+posted O
+on O
+15 O
+Sep O
+and O
+
+P536 B-Course_number
+
+Advanced B-Course_title
+Operating I-Course_title
+Systems I-Course_title
+
+Scott B-Person
+Stoller I-Person
+
+Madhusudhan B-Person
+Govindaraju I-Person
+
+Fall O
+1996 O
+P436 B-Course_number
+/ O
+P536 B-Course_number
+Home O
+Page O
+
+midterm O
+(out O
+of O
+35)23.2 O
+(66%)6.2 O
+
+If O
+you O
+
+Solutions O
+to O
+other O
+practice O
+problems O
+will O
+
+that O
+process O
+. O
+
+extra O
+office O
+hours: O
+Friday, O
+2pm-3pm, O
+and O
+Mon, O
+10am-11am O
+. O
+
+"Book" O
+means O
+Tanenbaum; O
+no O
+other O
+books O
+. O
+
+Office O
+Hours: O
+The O
+instructor's O
+office O
+hours O
+on O
+Sep O
+. O
+
+B649 B-Course_number
+
+Topics B-Course_title
+in I-Course_title
+Distributed I-Course_title
+Systems I-Course_title
+
+Scott B-Person
+Stoller I-Person
+
+Course O
+Description O
+
+Sape B-Person
+Mullender I-Person
+, O
+editor. O
+Distributed B-Textbook
+Systems, I-Textbook
+2nd I-Textbook
+edition. I-Textbook
+Addison-Wesley, O
+1993 O
+. O
+
+Kenneth B-Person
+P. I-Person
+Birman I-Person
+. O
+Building B-Textbook
+Secure I-Textbook
+and I-Textbook
+Reliable I-Textbook
+Network I-Textbook
+Applications. I-Textbook
+Prentice O
+Hall, O
+1996 O
+. O
+
+14) O
+
+plan O
+to O
+read O
+next O
+(i.e., O
+during O
+the O
+following O
+2 O
+weeks) O
+. O
+
+This O
+was O
+distributed O
+in O
+class O
+on O
+Feb O
+18 O
+. O
+
+contain O
+domain O
+names O
+that O
+are O
+prefixes O
+of O
+dn O
+(I O
+say O
+"prefixes" O
+
+P436/536 B-Course_number
+
+Operating B-Course_title
+Systems I-Course_title
+
+Scott B-Person
+Stoller I-Person
+
+Shamugasundar B-Person
+Balasubramaniam I-Person
+
+Andrew B-Person
+Tanenbaum I-Person
+
+system, O
+called O
+Nachos, O
+which O
+runs O
+
+"skeleton" O
+of O
+the O
+operating O
+system O
+and O
+will O
+be O
+asked O
+to O
+implement O
+some O
+
+Solutions B-Course_title
+to I-Course_title
+Problem I-Course_title
+Set I-Course_title
+2 O
+
+don't O
+bring O
+pages O
+of O
+worked-out O
+problems O
+to O
+the O
+exam O
+. O
+
+spaces O
+. O
+
+Week O
+of O
+September O
+2 O
+
+Mauro B-Person
+Conti, I-Person
+PhD O
+
+Computer B-Course_title
+and I-Course_title
+Network I-Course_title
+Security I-Course_title
+
+Lecturer: O
+Mauro B-Person
+Conti I-Person
+
+Benjamin B-Person
+Fuller I-Person
+
+Benjamin B-Person
+Fuller I-Person
+
+Modern B-Course_title
+Cryptography: I-Course_title
+Primitives I-Course_title
+and I-Course_title
+Protocols I-Course_title
+
+Benjamin B-Person
+Fuller I-Person
+E-mail: O
+benjamin.fuller@uconn.edu B-Email
+Office O
+Hours O
+Tuesday O
+11-12pm O
+
+Benjamin B-Person
+Fuller I-Person
+
+Benjamin B-Person
+Fuller I-Person
+
+Introduction B-Course_title
+to I-Course_title
+Network I-Course_title
+Security I-Course_title
+
+Lecture O
+13: O
+BGPSec O
+
+Benjamin B-Person
+Fuller I-Person
+E-mail: O
+benjamin.fuller@uconn.edu B-Email
+Office O
+Hours O
+Tuesday O
+11-12pm O
+
+Benjamin B-Person
+Fuller I-Person
+
+Benjamin B-Person
+Fuller I-Person
+
+Modern B-Course_title
+Cryptography: I-Course_title
+Foundations I-Course_title
+
+Lecture O
+26, O
+December O
+7, O
+Scribe: O
+Tham B-Person
+Hoang I-Person
+
+Benjamin B-Person
+Fuller I-Person
+E-mail: O
+benjamin.fuller@uconn.edu B-Email
+Office O
+Hours O
+Tuesday O
+11-12pm O
+
+ECE B-Course_number
+5530 I-Course_number
+Configurable B-Course_title
+Computing I-Course_title
+| O
+ECE O
+| O
+Virginia O
+Tech O
+
+ECE B-Course_number
+5530 I-Course_number
+- O
+Configurable B-Course_title
+Computing I-Course_title
+
+The O
+design O
+and O
+implementation O
+of O
+high-performance O
+computing O
+machinery O
+using O
+configurable O
+computing O
+technology O
+is O
+studied O
+. O
+
+ECE B-Course_number
+5660 I-Course_number
+
+ECE B-Course_number
+5660 I-Course_number
+
+Future O
+cellular O
+systems O
+are O
+virtually O
+all O
+being O
+designed O
+using O
+spread O
+spectrum O
+techniques O
+. O
+
+ECE B-Course_number
+5704 I-Course_number
+
+ECE B-Course_number
+5704 I-Course_number
+
+Skip O
+MenuSkip O
+to O
+LoginSkip O
+to O
+Main O
+NavigationSkip O
+to O
+SearchSkip O
+to O
+Left O
+NavigationSkip O
+to O
+Main O
+ContentSkip O
+to O
+Footer O
+
+ECE B-Course_number
+1004 I-Course_number
+Introduction B-Course_title
+to I-Course_title
+ECE I-Course_title
+Concepts I-Course_title
+(3 O
+C) O
+
+ECE B-Course_number
+1574 I-Course_number
+Engineering B-Course_title
+Problem I-Course_title
+Solving I-Course_title
+with I-Course_title
+C++ I-Course_title
+(3 O
+C) O
+
+ECE B-Course_number
+2004 I-Course_number
+
+ECE B-Course_number
+2014 I-Course_number
+
+ECE B-Course_number
+2024 I-Course_number
+
+ECE B-Course_number
+2054 I-Course_number
+
+ECE B-Course_number
+2074 I-Course_number
+
+ECE B-Course_number
+2164 I-Course_number
+
+ECE B-Course_number
+2204 I-Course_number
+
+ECE B-Course_number
+2274 I-Course_number
+Electronics B-Course_title
+Networks I-Course_title
+Laboratory I-Course_title
+(1 O
+C) O
+
+ECE B-Course_number
+2500 I-Course_number
+
+ECE B-Course_number
+2504 I-Course_number
+
+ECE B-Course_number
+2514 I-Course_number
+
+ECE B-Course_number
+2524 I-Course_number
+Introduction B-Course_title
+to I-Course_title
+UNIX I-Course_title
+for I-Course_title
+Engineers I-Course_title
+(2 O
+C) O
+
+ECE B-Course_number
+2534 I-Course_number
+MICROCONTROLLER B-Course_title
+PROGRAMMING I-Course_title
+AND I-Course_title
+INTERFACING I-Course_title
+(4 O
+C) O
+
+ECE B-Course_number
+2544 I-Course_number
+Fundamentals B-Course_title
+of I-Course_title
+Digital I-Course_title
+Systems I-Course_title
+(3 O
+C) O
+
+ECE B-Course_number
+2574 I-Course_number
+Introduction B-Course_title
+to I-Course_title
+Data I-Course_title
+Structures I-Course_title
+and I-Course_title
+Algorithms I-Course_title
+(3 O
+C) O
+
+ECE B-Course_number
+2704 I-Course_number
+
+ECE B-Course_number
+3004 I-Course_number
+
+ECE B-Course_number
+3054 I-Course_number
+Electrical B-Course_title
+Theory I-Course_title
+(3 O
+C) O
+
+ECE B-Course_number
+3074 I-Course_number
+
+ECE B-Course_number
+3104 I-Course_number
+
+ECE B-Course_number
+3105 I-Course_number
+
+ECE B-Course_number
+3106 I-Course_number
+
+ECE B-Course_number
+3134 I-Course_number
+
+ECE B-Course_number
+3154 I-Course_number
+
+ECE B-Course_number
+3174 I-Course_number
+
+ECE B-Course_number
+3204 I-Course_number
+
+ECE B-Course_number
+3214 I-Course_number
+
+ECE B-Course_number
+3254 I-Course_number
+
+ECE B-Course_number
+3274 I-Course_number
+
+ECE B-Course_number
+3304 I-Course_number
+
+ECE B-Course_number
+3354 I-Course_number
+
+ECE B-Course_number
+3544 I-Course_number
+
+ECE B-Course_number
+3574 I-Course_number
+Applied B-Course_title
+Software I-Course_title
+Design I-Course_title
+(3 O
+C) O
+
+ECE B-Course_number
+3604 I-Course_number
+
+ECE B-Course_number
+3614 I-Course_number
+Introduction B-Course_title
+to I-Course_title
+Communication I-Course_title
+Systems I-Course_title
+(3 O
+C) O
+
+ECE B-Course_number
+3704 I-Course_number
+Continuous B-Course_title
+and I-Course_title
+Discrete I-Course_title
+System I-Course_title
+Theory I-Course_title
+(3 O
+C) O
+
+ECE B-Course_number
+3714 I-Course_number
+Introduction B-Course_title
+to I-Course_title
+Control I-Course_title
+Systems I-Course_title
+(3 O
+C) O
+
+ECE B-Course_number
+4104 I-Course_number
+
+ECE B-Course_number
+4114 I-Course_number
+
+ECE B-Course_number
+4124 I-Course_number
+
+ECE B-Course_number
+4134 I-Course_number
+
+ECE B-Course_number
+4144 I-Course_number
+
+ECE B-Course_number
+4154 I-Course_number
+
+ECE B-Course_number
+4164 I-Course_number
+
+ECE B-Course_number
+4194 I-Course_number
+(3 O
+C) O
+
+ECE B-Course_number
+4205 I-Course_number
+(3 O
+C) O
+
+ECE B-Course_number
+4206 I-Course_number
+(3 O
+C) O
+
+ECE B-Course_number
+4214 I-Course_number
+(3 O
+C) O
+
+ECE B-Course_number
+4220 I-Course_number
+Analog B-Course_title
+
+ECE B-Course_number
+4224 I-Course_number
+
+ECE B-Course_number
+4234 I-Course_number
+
+(3 O
+C) O
+ECE B-Course_number
+4235 I-Course_number
+
+(3 O
+C) O
+ECE B-Course_number
+4244 I-Course_number
+
+(3 O
+C) O
+ECE B-Course_number
+4284 I-Course_number
+(1 O
+C) O
+
+ECE B-Course_number
+4304 I-Course_number
+
+ECE B-Course_number
+4334 I-Course_number
+(3 O
+C) O
+
+ECE B-Course_number
+4344 I-Course_number
+(3 O
+C) O
+
+ECE B-Course_number
+4354 I-Course_number
+Power B-Course_title
+System I-Course_title
+Protection I-Course_title
+(3 O
+C) O
+
+ECE B-Course_number
+4364 I-Course_number
+(3 O
+C) O
+
+ECE B-Course_number
+4374 I-Course_number
+(1 O
+C) O
+
+ECE B-Course_number
+4424 I-Course_number
+(3 O
+C) O
+
+ECE B-Course_number
+4454 I-Course_number
+(3 O
+C) O
+
+ECE B-Course_number
+4704 I-Course_number
+(3 O
+C) O
+
+ECE B-Course_number
+4504 I-Course_number
+(3 O
+C) O
+
+ECE B-Course_number
+4514 I-Course_number
+
+ECE B-Course_number
+4520 I-Course_number
+
+ECE B-Course_number
+4524 I-Course_number
+
+ECE B-Course_number
+4525 I-Course_number
+
+ECE B-Course_number
+4526 I-Course_number
+
+ECE B-Course_number
+4530 I-Course_number
+Hardware-Software B-Course_title
+Codesign I-Course_title
+(3 O
+C) O
+
+ECE B-Course_number
+4534 I-Course_number
+Embedded B-Course_title
+System I-Course_title
+Design I-Course_title
+(4 O
+C) O
+
+ECE B-Course_number
+4540 I-Course_number
+
+ECE B-Course_number
+4550 I-Course_number
+
+ECE B-Course_number
+4554 I-Course_number
+
+ECE B-Course_number
+4560 I-Course_number
+Computer B-Course_title
+and I-Course_title
+Network I-Course_title
+Security I-Course_title
+Fundamentals I-Course_title
+(3 O
+C) O
+
+ECE B-Course_number
+4564 I-Course_number
+Network B-Course_title
+Application I-Course_title
+Design I-Course_title
+(3 O
+C) O
+
+ECE B-Course_number
+4570 I-Course_number
+
+ECE B-Course_number
+4574 I-Course_number
+
+ECE B-Course_number
+4580 I-Course_number
+
+4600 O
+LEVEL O
+COURSES O
+
+ECE B-Course_number
+4605 I-Course_number
+
+ECE B-Course_number
+4606 I-Course_number
+(3 O
+C) O
+
+ECE B-Course_number
+4614 I-Course_number
+(3 O
+C) O
+
+ECE B-Course_number
+4624 I-Course_number
+(3 O
+C) O
+
+ECE B-Course_number
+4634 I-Course_number
+(3 O
+C) O
+
+ECE B-Course_number
+4644 I-Course_number
+
+ECE B-Course_number
+4664 I-Course_number
+
+ECE B-Course_number
+4675 I-Course_number
+
+ECE B-Course_number
+4684 I-Course_number
+Network B-Course_title
+Science I-Course_title
+(3 O
+C) O
+
+ECE B-Course_number
+4805 I-Course_number
+
+ECE B-Course_number
+4806 I-Course_number
+
+ECE B-Course_number
+4944 I-Course_number
+Cybersecurity B-Course_title
+Seminar I-Course_title
+(1 O
+C) O
+
+NOTICE: O
+ECE B-Course_number
+1574 I-Course_number
+will O
+NOT O
+be O
+required O
+for O
+ECE O
+Class O
+of O
+2022 O
+
+ECE’s O
+two-semester O
+Major O
+Design O
+Experience O
+( O
+ECE B-Course_number
+4805 I-Course_number
+-4806) O
+provides O
+teams O
+of O
+students O
+with O
+simulations O
+of O
+the O
+post O
+college O
+world O
+via O
+projects O
+specified O
+and O
+directed O
+by O
+industry O
+partners O
+. O
+
+For O
+current O
+prerequisites O
+for O
+a O
+particular O
+course, O
+and O
+to O
+view O
+course O
+offerings O
+for O
+a O
+particular O
+semester, O
+see O
+the O
+Virginia O
+Tech O
+Course O
+Timetables O
+. O
+
+ET4397IN B-Course_number
+Network B-Course_title
+Security I-Course_title
+
+CS4155 B-Course_number
+Advanced B-Course_title
+Network I-Course_title
+Security I-Course_title
+
+IN4253ET B-Course_number
+Applied B-Course_title
+Security I-Course_title
+Analysis I-Course_title
+
+Network B-Course_title
+Security I-Course_title
+( O
+ET4397IN B-Course_number
+) O
+
+ET4397IN B-Course_number
+Network B-Course_title
+Security I-Course_title
+covers O
+
+Running O
+in O
+parallel O
+to O
+this O
+course, O
+CS4155 B-Course_number
+- O
+Advanced B-Course_title
+Network I-Course_title
+Security I-Course_title
+has O
+7 O
+hours O
+of O
+lectures O
+and O
+labs O
+per O
+week O
+. O
+
+The O
+following O
+shows O
+the O
+topics O
+discussed O
+in O
+ET4397IN B-Course_number
+, O
+the O
+material O
+that O
+is O
+additionally O
+covered O
+in O
+CS4155 B-Course_number
+is O
+marked O
+in O
+blue: O
+
+E-Mail: O
+c B-Email
+-DOT- I-Email
+doerr I-Email
+-AT- I-Email
+tudelft I-Email
+-DOT- I-Email
+nl I-Email
+
+ET4397IN B-Course_number
+Network B-Course_title
+Security I-Course_title
+
+CS4155 B-Course_number
+Advanced B-Course_title
+Network I-Course_title
+Security I-Course_title
+
+IN4253ET B-Course_number
+Applied B-Course_title
+Security I-Course_title
+Analysis I-Course_title
+
+Advanced B-Course_title
+Network I-Course_title
+Security I-Course_title
+( O
+CS4155 B-Course_number
+) O
+
+ET4397IN B-Course_number
+provides O
+a O
+general O
+overview O
+of O
+network O
+security, O
+attacks O
+and O
+countermeasures O
+. O
+
+In O
+Advanced B-Course_title
+Network I-Course_title
+Security I-Course_title
+, O
+we O
+will O
+go O
+a O
+lot O
+deeper O
+and O
+take O
+a O
+more O
+technical O
+approach O
+to O
+communication O
+security O
+. O
+
+The O
+learning O
+goal O
+of O
+ET4397IN B-Course_number
+is O
+that O
+you O
+can O
+perform O
+a O
+risk O
+analysis, O
+understand O
+the O
+principle O
+of O
+specific O
+attacks O
+and O
+which O
+countermeasures O
+would O
+neutralize O
+them, O
+in O
+CS4155 B-Course_number
+we O
+will O
+understand O
+these O
+attacks O
+in O
+detail O
+and O
+learn O
+how O
+to O
+design O
+and O
+actually O
+implement O
+countermeasures O
+as O
+practice O
+. O
+
+In O
+CS4155 B-Course_number
+, O
+we O
+will O
+have O
+
+6 O
+lecture O
+hours O
+per O
+week O
+(instead O
+of O
+4) O
+which O
+go O
+substantially O
+deeper O
+than O
+ET4397IN B-Course_number
+, O
+
+CS4155 B-Course_number
+requires O
+you O
+to O
+have O
+a O
+solid O
+background O
+in O
+at O
+least O
+one O
+high-level O
+programming O
+language, O
+such O
+as O
+C, O
+Java, O
+or O
+Python O
+. O
+
+The O
+following O
+shows O
+the O
+topics O
+discussed O
+in O
+CS4155 B-Course_number
+, O
+the O
+additions O
+to O
+ET4379IN B-Course_number
+are O
+indicated O
+in O
+blue: O
+
+WPA2, O
+WPS, O
+802.1X O
+port-based O
+network O
+access O
+control, O
+802.1AE O
+MAC O
+security O
+. O
+
+In O
+the O
+project, O
+we O
+will O
+cover O
+in O
+each O
+week O
+one O
+of O
+the O
+fundamental O
+engineering O
+challenges O
+around O
+a O
+network O
+monitoring O
+and O
+defense O
+solution O
+. O
+
+ET4397IN B-Course_number
+Network B-Course_title
+Security I-Course_title
+covers O
+the O
+concepts O
+of O
+network O
+security, O
+current O
+vulnerabilities O
+and O
+appropriate O
+countermeasures O
+. O
+
+In O
+CS4155 B-Course_number
+Advanced B-Course_title
+Network I-Course_title
+Security I-Course_title
+, O
+students O
+get O
+in O
+addition O
+to O
+the O
+theory O
+also O
+the O
+opportunity O
+for O
+studying O
+vulnerabilities O
+and O
+countermeasures O
+in O
+networking O
+systems O
+and O
+communication O
+protocols O
+in O
+detail, O
+including O
+in-depth O
+study O
+of O
+protocol O
+security O
+analysis O
+as O
+well O
+as O
+a O
+handson O
+implementation O
+of O
+defense O
+mechanisms O
+on O
+actual O
+systems O
+. O
+
+ET4397IN B-Course_number
+Network B-Course_title
+Security I-Course_title
+
+CS4155 B-Course_number
+Advanced B-Course_title
+Network I-Course_title
+Security I-Course_title
+
+ET4397IN B-Course_number
+Network B-Course_title
+Security I-Course_title
+
+CS4155 B-Course_number
+Advanced B-Course_title
+Network I-Course_title
+Security I-Course_title
+
+IN4253ET B-Course_number
+Applied B-Course_title
+Security I-Course_title
+Analysis I-Course_title
+
+Applied B-Course_title
+Security I-Course_title
+Analysis I-Course_title
+( O
+IN4253ET B-Course_number
+) O
+
+The O
+skills O
+needed O
+to O
+successfully O
+complete O
+IN4253ET B-Course_number
+differ O
+based O
+on O
+the O
+project O
+you O
+and O
+your O
+team O
+chooses O
+. O
+
+CAP B-Course_number
+6133 I-Course_number
+: O
+Advanced B-Course_title
+Topics I-Course_title
+in I-Course_title
+Computer I-Course_title
+Security I-Course_title
+and I-Course_title
+Computer I-Course_title
+Forensic I-Course_title
+
+Dr. O
+Xinwen B-Person
+Fu I-Person
+
+CAP B-Course_number
+6133 I-Course_number
+: O
+Advanced B-Course_title
+Topics I-Course_title
+in I-Course_title
+Computer I-Course_title
+Security I-Course_title
+and I-Course_title
+Computer I-Course_title
+Forensics I-Course_title
+
+will O
+be O
+available O
+through O
+Webcourse O
+
+Each O
+member O
+of O
+this O
+class O
+is O
+required O
+to O
+join O
+a O
+team O
+of O
+at O
+least O
+2 O
+persons O
+and O
+at O
+most O
+3 O
+persons O
+. O
+
+TENTATIVE O
+
+91.661.201 B-Course_number
+
+ADVANCED B-Course_title
+TOPICS I-Course_title
+IN I-Course_title
+NETWORK I-Course_title
+SECURITY I-Course_title
+with O
+focus O
+on O
+IoT O
+Security O
+and O
+Privacy O
+
+Dr. O
+Xinwen B-Person
+Fu I-Person
+
+xinwenfu@cs.uml.edu B-Email
+
+Olsen O
+
+Yuan, B-Person
+Yufeng I-Person
+< O
+Yufeng_Yuan@student.uml.edu B-Email
+> O
+
+to) O
+plagiarism, O
+copying O
+answers O
+or O
+work O
+done O
+by O
+another O
+student O
+(either O
+on O
+an O
+
+only O
+be O
+given O
+in O
+case O
+of O
+serious O
+need O
+and O
+only O
+when O
+the O
+instructor O
+is O
+
+members O
+to O
+the O
+instructor O
+once O
+the O
+team O
+is O
+formed O
+. O
+
+91.460.203 B-Course_number
+-- O
+Selected B-Course_title
+Topics: I-Course_title
+Cyber I-Course_title
+Crime I-Course_title
+Investigation I-Course_title
+
+Xinwen B-Person
+Fu I-Person
+
+91.460.203 B-Course_number
+-- O
+Selected B-Course_title
+Topics: I-Course_title
+Cyber I-Course_title
+Crime I-Course_title
+Investigation I-Course_title
+
+91.413.201 B-Course_number
+
+Bill B-Person
+Nelson I-Person
+, O
+Amelia B-Person
+Phillips I-Person
+, O
+Christopher B-Person
+Steuart I-Person
+, O
+Guide B-Textbook
+to I-Textbook
+Computer I-Textbook
+Forensics I-Textbook
+and I-Textbook
+Investigations I-Textbook
+(with O
+DVD) O
+5th O
+Edition, O
+Course O
+Technology; O
+5 O
+edition O
+(January O
+15, O
+2015) O
+, O
+ISBN-10: O
+1285060032 O
+
+Sherri B-Person
+Davidoff I-Person
+, O
+Jonathan B-Person
+Ham I-Person
+, O
+Network B-Textbook
+Forensics: I-Textbook
+Tracking I-Textbook
+Hackers I-Textbook
+through I-Textbook
+Cyberspace, I-Textbook
+Prentice O
+Hall; O
+1 O
+edition O
+(June O
+23, O
+2012) O
+, O
+ISBN-10: O
+0132564718 O
+
+architectural, O
+communication O
+or O
+transportation O
+barriers, O
+or O
+the O
+provision O
+of O
+
+Jody B-Person
+Goldstein I-Person
+, O
+
+Packet O
+Capture O
+and O
+Analysis O
+
+Summary O
+statistics O
+
+Supplementary O
+
+91.530.203 B-Course_number
+-- O
+Selected B-Course_title
+Topics: I-Course_title
+Cyber I-Course_title
+Crime I-Course_title
+Investigation I-Course_title
+
+Dr. O
+Xinwen B-Person
+Fu I-Person
+
+xinwenfu@cs.uml.edu B-Email
+
+91.530.203 B-Course_number
+-- O
+Selected B-Course_title
+Topics: I-Course_title
+Cyber I-Course_title
+Crime I-Course_title
+Investigation I-Course_title
+
+91.305 B-Course_number
+
+91.308 B-Course_number
+Introduction B-Course_title
+to I-Course_title
+Operating I-Course_title
+Systems I-Course_title
+
+Bill B-Person
+Nelson I-Person
+, O
+Amelia B-Person
+Phillips I-Person
+, O
+Christopher B-Person
+Steuart, I-Person
+
+Jody B-Person
+Goldstein, I-Person
+
+CLASS O
+SCHEDULE O
+
+Supplementary O
+
+Network B-Course_title
+Forensics I-Course_title
+
+Network B-Course_title
+Forensics I-Course_title
+
+Interlacing O
+of O
+device O
+and O
+network O
+forensics O
+
+91.661.201 B-Course_number
+ADVANCED B-Course_title
+TOPICS I-Course_title
+IN I-Course_title
+NETWORK I-Course_title
+SECURITY I-Course_title
+
+Instructor: O
+Dr. O
+Xinwen B-Person
+Fu I-Person
+
+Office: O
+
+Course O
+Name: O
+91.661.201 B-Course_number
+Advanced B-Course_title
+Topics I-Course_title
+in I-Course_title
+Network I-Course_title
+Security I-Course_title
+
+Prerequisite O
+courses: O
+91.561.201 B-Course_number
+Computer B-Course_title
+& I-Course_title
+Network I-Course_title
+Security I-Course_title
+I O
+or O
+equivalent O
+or O
+permitted O
+by O
+the O
+instructor O
+. O
+
+Announcements, O
+questions O
+(and O
+answers, O
+etc O
+. O
+
+Godfrey B-Person
+Nolan I-Person
+, O
+Decompiling B-Textbook
+Android I-Textbook
+, O
+Apress; O
+1 O
+edition O
+(July O
+4, O
+2012) O
+
+Students O
+should O
+attend O
+the O
+class O
+
+will O
+be O
+given O
+a O
+grade O
+of O
+zero O
+. O
+
+Android O
+Tutorial O
+
+91.661.201 B-Course_number
+ADVANCED B-Course_title
+TOPICS I-Course_title
+IN I-Course_title
+NETWORK I-Course_title
+SECURITY I-Course_title
+
+Instructor: O
+Dr. O
+Xinwen B-Person
+Fu I-Person
+
+Course O
+Name: O
+91.661.201 B-Course_number
+Advanced B-Course_title
+Topics I-Course_title
+in I-Course_title
+Network I-Course_title
+Security I-Course_title
+
+Prerequisite O
+courses: O
+91.561.201 B-Course_number
+Computer B-Course_title
+& I-Course_title
+Network I-Course_title
+Security I-Course_title
+I O
+or O
+equivalent O
+or O
+permitted O
+by O
+the O
+instructor O
+. O
+
+Sheran B-Person
+A. I-Person
+Gunasekera I-Person
+, O
+Android B-Textbook
+Apps I-Textbook
+Security, I-Textbook
+Apress, O
+2012 O
+
+Jeff B-Person
+Six I-Person
+, O
+Application B-Textbook
+Security I-Textbook
+for I-Textbook
+the I-Textbook
+Android I-Textbook
+Platform: I-Textbook
+Processes, I-Textbook
+Permissions, I-Textbook
+and I-Textbook
+Other I-Textbook
+Safeguards, I-Textbook
+O'Reilly O
+Media, O
+December O
+10, O
+2011 O
+, O
+ISBN-10: O
+1449315070, O
+ISBN-13: O
+978-1449315078 O
+
+Randal B-Person
+E. I-Person
+Bryant I-Person
+, O
+David B-Person
+R. I-Person
+O’Hallaron I-Person
+, O
+Computer B-Textbook
+Systems I-Textbook
+A I-Textbook
+Programmer’s I-Textbook
+Perspective, I-Textbook
+April O
+22, O
+2002 O
+
+in O
+the O
+classroom O
+. O
+
+Homework O
+Assignments O
+
+be O
+specified O
+on O
+assignment O
+postings O
+. O
+
+91.460.201 B-Course_number
+and O
+91.530.202 B-Course_number
+Special B-Course_title
+Topics: I-Course_title
+Digital I-Course_title
+Forensics I-Course_title
+
+Instructor: O
+Dr. O
+Xinwen B-Person
+Fu I-Person
+
+xinwenfu@cs.uml.edu B-Email
+
+91.460.201 B-Course_number
+and O
+91.530.202 B-Course_number
+Special O
+Topics: O
+Digital O
+Forensics O
+
+Bill B-Person
+Nelson I-Person
+, O
+Amelia B-Person
+Phillips I-Person
+, O
+and O
+Christopher B-Person
+Steuart I-Person
+
+Orin B-Person
+S. I-Person
+Kerr I-Person
+, O
+Computer B-Textbook
+Crime I-Textbook
+Law, I-Textbook
+2d I-Textbook
+(American O
+Casebook), O
+West, O
+October O
+23, O
+2009 O
+
+Sara B-Person
+Baase I-Person
+, O
+A B-Textbook
+Gift I-Textbook
+of I-Textbook
+Fire: I-Textbook
+Social, I-Textbook
+Legal, I-Textbook
+and I-Textbook
+Ethical I-Textbook
+Issues I-Textbook
+for I-Textbook
+Computing I-Textbook
+Technology I-Textbook
+(4th I-Textbook
+Edition), I-Textbook
+Prentice O
+Hall, O
+August O
+5, O
+2012 O
+
+forms O
+of O
+academic O
+dishonesty O
+will O
+result O
+in O
+an O
+F O
+for O
+the O
+course O
+and O
+
+unauthorized O
+materials O
+during O
+an O
+exam O
+. O
+
+We O
+will O
+explore O
+what O
+
+85 O
+~ O
+89.9 O
+
+are O
+to O
+be O
+turned O
+in O
+on O
+or O
+before O
+the O
+due O
+date O
+and O
+time O
+. O
+
+class O
+is O
+required O
+to O
+join O
+a O
+team O
+of O
+at O
+most O
+
+3 O
+persons O
+. O
+
+Introduction B-Course_title
+to I-Course_title
+Digital I-Course_title
+Forensics I-Course_title
+
+91.460.201 B-Course_number
+and O
+91.530.202 B-Course_number
+Special B-Course_title
+Topics: I-Course_title
+Digital I-Course_title
+Forensics I-Course_title
+
+Instructor: O
+Dr. O
+Xinwen B-Person
+Fu I-Person
+
+E-Mail: O
+xinwenfu@cs.uml.edu B-Email
+
+Course O
+Name: O
+91.460.201 B-Course_number
+and O
+91.530.202 B-Course_number
+Special O
+Topics: O
+Digital O
+Forensics O
+
+on O
+an O
+exam O
+or O
+assignment), O
+allowing O
+another O
+student O
+to O
+copy O
+from O
+you, O
+and O
+using O
+
+91.413.201 B-Course_number
+
+Instructor: O
+Dr. O
+Xinwen B-Person
+Fu I-Person
+
+xinwenfu@cs.uml.edu B-Email
+
+91.413.201 B-Course_number
+
+Co-Req O
+or O
+Pre-Req: O
+91.308 B-Course_number
+Operating B-Course_title
+Systems I-Course_title
+
+Computer B-Textbook
+Networking: I-Textbook
+A I-Textbook
+Top I-Textbook
+Down I-Textbook
+Approach I-Textbook
+Featuring I-Textbook
+the I-Textbook
+Internet, I-Textbook
+5th I-Textbook
+Edition I-Textbook
+, O
+J.F. B-Person
+Kurose I-Person
+and O
+K.W B-Person
+Ross I-Person
+, O
+Addison-Wesley O
+. O
+
+unauthorized O
+materials O
+during O
+an O
+exam O
+. O
+
+Projects O
+
+Jody B-Person
+Goldstein I-Person
+, O
+MSSW O
+
+Disability@uml.edu B-Email
+
+Socket B-Course_title
+Programming I-Course_title
+
+Mauro B-Person
+Conti I-Person
+, O
+PhD O
+
+Computer B-Course_title
+and I-Course_title
+Network I-Course_title
+Security I-Course_title
+
+Lecturer: O
+Mauro B-Person
+Conti I-Person
+
+91.413.201 B-Course_number
+
+Instructor: O
+Dr. O
+Xinwen B-Person
+Fu I-Person
+
+E-Mail: O
+xinwenfu@cs.uml.edu B-Email
+
+Course O
+Name: O
+91.413.201 B-Course_number
+
+TA: O
+Peng B-Person
+Xia I-Person
+, O
+Tuesday O
+2:00 O
+- O
+3:00 O
+pm, O
+Olsen O
+223 O
+
+Co-Req O
+or O
+Pre-Req: O
+91.308 B-Course_number
+Operating B-Course_title
+Systems I-Course_title
+
+of O
+the O
+
+Socket B-Course_title
+Programming I-Course_title
+
+91.413.201 B-Course_number
+
+Course O
+Name: O
+91.413.201 B-Course_number
+Data B-Course_title
+Communication I-Course_title
+I I-Course_title
+
+Co-Req O
+or O
+Pre-Req: O
+91.308 B-Course_number
+Operating B-Course_title
+Systems I-Course_title
+
+A O
+Chat O
+room O
+is O
+also O
+likely O
+to O
+be O
+used O
+from O
+time O
+to O
+time O
+. O
+
+A- O
+
+91.413.201 B-Course_number
+
+Office: O
+203 O
+Olson O
+Hall O
+
+Course O
+Name: O
+91.413.201 B-Course_number
+
+networks, O
+their O
+protocols, O
+and O
+applications O
+. O
+
+Co-Req O
+or O
+Pre-Req: O
+91.308 B-Course_number
+Operating B-Course_title
+Systems I-Course_title
+
+Textbook O
+
+10% O
+
+Homework O
+Assignments O
+
+Disability@uml.edu B-Email
+
+LAN O
+Addresses O
+and O
+ARP O
+
+91.413.201 B-Course_number
+
+E-Mail: O
+xinwenfu@cs.uml.edu B-Email
+
+Course O
+Name: O
+91.413.201 B-Course_number
+Data B-Course_title
+Communication I-Course_title
+
+Email: O
+pxia@cs.uml.edu B-Email
+
+Co-Req O
+or O
+Pre-Req: O
+91.308 B-Course_number
+Operating B-Course_title
+Systems I-Course_title
+
+Academic O
+Success O
+
+If O
+the O
+situation O
+persists, O
+I O
+will O
+forward O
+my O
+concern O
+to O
+
+E-mail: O
+Disability@uml.edu B-Email
+
+Part O
+2: O
+The O
+Application O
+Layer O
+
+Computer B-Course_title
+Security I-Course_title
+( O
+CS:4640:0001 B-Course_number
+), O
+Spring O
+2018 O
+
+Email: O
+ryan-brummet@uiowa.edu B-Email
+
+Access O
+control O
+models O
+(DAC, O
+MAC, O
+RBAC, O
+ABAC); O
+
+Introduction B-Course_title
+to I-Course_title
+Cryptography I-Course_title
+
+Our O
+websites O
+may O
+use O
+cookies O
+to O
+personalize O
+and O
+enhance O
+your O
+experience O
+. O
+
+Modern B-Course_title
+Cryptography: I-Course_title
+Primitives I-Course_title
+and I-Course_title
+Protocols I-Course_title
+
+Introduction B-Course_title
+to I-Course_title
+Network I-Course_title
+Security I-Course_title
+
+Benjamin B-Person
+Fuller I-Person
+E-mail: O
+benjamin.fuller@uconn.edu B-Email
+Office O
+Hours O
+Tuesday O
+11-12pm O
+
+Benjamin B-Person
+Fuller I-Person
+
+Teaching O
+
+Mathematics B-Course_title
+of I-Course_title
+Discrete I-Course_title
+Systems I-Course_title
+
+Introduction B-Course_title
+to I-Course_title
+Network I-Course_title
+Security I-Course_title
+
+Modern B-Course_title
+Cryptography: I-Course_title
+Foundations I-Course_title
+
+Modern B-Course_title
+Cryptography: I-Course_title
+Primitives I-Course_title
+and I-Course_title
+Protocols I-Course_title
+
+Modern B-Course_title
+Cryptography: I-Course_title
+Foundations I-Course_title
+
+Benjamin B-Person
+Fuller I-Person
+E-mail: O
+benjamin.fuller@uconn.edu B-Email
+Office O
+Hours O
+Tuesday O
+11-12pm O
+
+Benjamin B-Person
+Fuller I-Person
+
+Benjamin B-Person
+Fuller I-Person
+
+Teaching O
+
+Mathematics B-Course_title
+of I-Course_title
+Discrete I-Course_title
+Systems I-Course_title
+
+Introduction B-Course_title
+to I-Course_title
+Network I-Course_title
+Security I-Course_title
+
+Modern B-Course_title
+Cryptography: I-Course_title
+Foundations I-Course_title
+
+Modern B-Course_title
+Cryptography: I-Course_title
+Primitives I-Course_title
+and I-Course_title
+Protocols I-Course_title
+
+Mayank B-Person
+Varia I-Person
+
+Coursera O
+cryptography O
+course O
+taught O
+by O
+Dan B-Person
+Boneh I-Person
+. O
+
+Notes O
+on O
+computational O
+complexity O
+by O
+Luca B-Person
+Trevisan I-Person
+. O
+
+Benjamin B-Person
+Fuller I-Person
+E-mail: O
+benjamin.fuller@uconn.edu B-Email
+Office O
+Hours O
+Tuesday O
+11-12pm O
+
+Course O
+Webpage O
+Operating B-Course_title
+Systems I-Course_title
+(CS:3620:0001) O
+
+Email: O
+omar-chowdhury@uiowa.edu B-Email
+
+Mitziu B-Person
+A. I-Person
+Echeverria I-Person
+
+Email: O
+mitziu-echeverria@uiowa.edu B-Email
+
+Operating B-Textbook
+Systems: I-Textbook
+Three I-Textbook
+Easy I-Textbook
+Pieces I-Textbook
+by O
+Remzi B-Person
+H. I-Person
+Arpaci-Dusseau I-Person
+and O
+Andrea B-Person
+C. I-Person
+Arpaci-Dussau I-Person
+. O
+
+Benjamin B-Person
+Fuller I-Person
+
+Benjamin B-Person
+Fuller I-Person
+
+Teaching O
+
+Mathematics B-Course_title
+of I-Course_title
+Discrete I-Course_title
+Systems I-Course_title
+
+Introduction B-Course_title
+to I-Course_title
+Network I-Course_title
+Security I-Course_title
+
+Modern B-Course_title
+Cryptography: I-Course_title
+Foundations I-Course_title
+
+Modern B-Course_title
+Cryptography: I-Course_title
+Primitives I-Course_title
+and I-Course_title
+Protocols I-Course_title
+
+Coursera O
+cryptography O
+course O
+taught O
+by O
+Dan B-Person
+Boneh I-Person
+. O
+
+Notes O
+on O
+computational O
+complexity O
+by O
+Luca B-Person
+Trevisan I-Person
+. O
+
+Cryptography O
+course O
+notes O
+by O
+Shafi B-Person
+Goldwasser I-Person
+and O
+Mihir B-Person
+Bellare I-Person
+. O
+
+An B-Textbook
+introduction I-Textbook
+to I-Textbook
+number I-Textbook
+theory I-Textbook
+by O
+Victor B-Person
+Shoup I-Person
+. O
+
+Benjamin B-Person
+Fuller I-Person
+E-mail: O
+benjamin.fuller@uconn.edu B-Email
+Office O
+Hours O
+Tuesday O
+11-12pm O
+
+Usable B-Course_title
+Security I-Course_title
+and I-Course_title
+Privacy I-Course_title
+( O
+
+• O
+Blase B-Person
+Ur I-Person
+blase@uchicago.edu B-Email
+Ryerson O
+157By O
+appointment O
+
+• O
+Mainack B-Person
+Mondal I-Person
+mainack@uchicago.edu B-Email
+Young O
+4th O
+FloorBy O
+appointment O
+
+• O
+Weijia B-Person
+He I-Person
+(TA) O
+hewj@uchicago.edu B-Email
+Young O
+4th O
+FloorBy O
+appointment O
+
+• O
+Ahsan B-Person
+Pervaiz I-Person
+(TTAAAA) O
+(TA) O
+ahsanp@uchicago.edu B-Email
+Young O
+4th O
+FloorBy O
+appointment O
+
+• O
+Midterm O
+exam O
+10% O
+
+Finally, O
+a O
+student O
+enrolled O
+in O
+CMSC B-Course_number
+3321 I-Course_number
+0 O
+must O
+contribute O
+non-trivial O
+implementation O
+of O
+a O
+system O
+or O
+software O
+tool O
+for O
+their O
+group O
+project O
+. O
+
+Graduate O
+students O
+must O
+enroll O
+in O
+CMSC B-Course_number
+3321 I-Course_number
+. O
+
+If O
+you O
+are O
+an O
+undergraduate, O
+please O
+note O
+that O
+CMSC B-Course_number
+23210 I-Course_number
+counts O
+as O
+an O
+elective O
+within O
+the O
+CS O
+major O
+. O
+
+However, O
+CMSC B-Course_number
+3321 I-Course_number
+0 O
+may O
+count O
+for O
+the O
+programming O
+languages O
+and O
+systems O
+sequence O
+within O
+the O
+CS O
+major, O
+but O
+you O
+must O
+file O
+a O
+petition O
+for O
+it O
+to O
+count O
+in O
+this O
+way O
+. O
+
+If O
+you O
+are O
+a O
+graduate O
+student, O
+CMSC B-Course_number
+3321 I-Course_number
+0 O
+counts O
+as O
+a O
+systems O
+elective, O
+but O
+not O
+as O
+a O
+systems O
+core O
+course O
+. O
+
+CMSC B-Course_number
+3321 I-Course_number
+0 O
+students O
+will O
+be O
+asked O
+to O
+submit O
+a O
+short O
+summary O
+(3-7 O
+sentences) O
+and O
+a O
+"highlight" O
+for O
+particular O
+readings O
+specified O
+in O
+each O
+problem O
+set O
+. O
+
+Pilot O
+test O
+the O
+user O
+study O
+protocol O
+on O
+at O
+least O
+two O
+people O
+(can O
+be O
+members O
+of O
+the O
+class O
+from O
+other O
+project O
+groups) O
+and O
+refine O
+it O
+based O
+on O
+these O
+tests O
+. O
+
+No O
+collaboration O
+is O
+permitted O
+on O
+quizzes O
+or O
+exams O
+. O
+
+In O
+Proceedings O
+of O
+SOUPS O
+2010 O
+. O
+
+Turtle O
+Guard: O
+Helping O
+Android O
+Users O
+Apply O
+Contextual O
+Privacy O
+Preferences O
+. O
+
+In O
+Proceedings O
+of O
+SOUPS O
+2012 O
+. O
+
+Keeping O
+a O
+Low O
+Profile? O
+
+Kevin B-Person
+Donovan I-Person
+and O
+Aaron B-Person
+Martin I-Person
+. O
+
+Usable B-Course_title
+Security I-Course_title
+and I-Course_title
+Privacy I-Course_title
+
+( O
+CMSC B-Course_number
+23210 I-Course_number
+/ O
+
+CMSC B-Course_number
+33210 I-Course_number
+) O
+
+• O
+Blase B-Person
+Ur I-Person
+blase@uchicago.eduRyerson B-Email
+157Thursdays O
+1:00 O
+- O
+2:00 O
+& O
+by O
+appointment O
+
+• O
+Maria B-Person
+Hyun I-Person
+(TA) O
+mhyun@uchicago.edu B-Email
+Ryerson O
+254Wednesdays O
+1:00 O
+- O
+2:00 O
+& O
+by O
+appointment O
+
+• O
+Gushu B-Person
+Li I-Person
+(TA) O
+ligushu@uchicago.edu B-Email
+Ryerson O
+254Mondays O
+4:30 O
+- O
+5:30 O
+& O
+by O
+appointment O
+
+• O
+Hua B-Person
+Li I-Person
+(TA) O
+hli5@uchicago.edu B-Email
+Ryerson O
+375Fridays O
+3:00 O
+- O
+4:00 O
+& O
+by O
+appointment O
+
+CMSC B-Course_number
+23210 I-Course_number
+vs O
+. O
+
+CMSC B-Course_number
+33210 I-Course_number
+is O
+a O
+strict O
+superset O
+of O
+CMSC B-Course_number
+23210 I-Course_number
+. O
+
+In O
+addition O
+to O
+meeting O
+all O
+requirements O
+of O
+CMSC B-Course_number
+23210 I-Course_number
+, O
+students O
+enrolled O
+in O
+CMSC B-Course_number
+33210 I-Course_number
+will O
+be O
+assigned O
+an O
+average O
+of O
+one O
+additional O
+(more O
+technical) O
+reading O
+each O
+week O
+. O
+
+Finally, O
+a O
+student O
+enrolled O
+in O
+CMSC B-Course_number
+33210 I-Course_number
+must O
+contribute O
+non-trivial O
+implementation O
+of O
+a O
+system O
+or O
+software O
+tool O
+for O
+their O
+group O
+project O
+. O
+
+Graduate O
+students O
+must O
+enroll O
+in O
+CMSC B-Course_number
+33210 I-Course_number
+. O
+
+If O
+you O
+are O
+an O
+undergraduate, O
+please O
+note O
+that O
+CMSC B-Course_number
+23210 I-Course_number
+counts O
+as O
+an O
+elective O
+within O
+the O
+CS O
+major O
+. O
+
+However, O
+CMSC B-Course_number
+33210 I-Course_number
+may O
+count O
+for O
+the O
+programming O
+languages O
+and O
+systems O
+sequence O
+within O
+the O
+CS O
+major, O
+but O
+you O
+must O
+file O
+a O
+petition O
+for O
+it O
+to O
+count O
+in O
+this O
+way O
+. O
+
+If O
+you O
+are O
+a O
+graduate O
+student, O
+CMSC B-Course_number
+33210 I-Course_number
+counts O
+as O
+a O
+systems O
+elective, O
+but O
+not O
+as O
+a O
+systems O
+core O
+course O
+. O
+
+CMSC B-Course_number
+33210 I-Course_number
+students O
+will O
+be O
+asked O
+to O
+submit O
+a O
+short O
+summary O
+(3-7 O
+sentences) O
+and O
+a O
+"highlight" O
+for O
+particular O
+readings O
+specified O
+in O
+each O
+homework O
+assignment O
+. O
+
+As O
+discussed O
+above, O
+CMSC B-Course_number
+33210 I-Course_number
+students O
+will O
+be O
+assigned O
+additional O
+readings O
+each O
+week O
+. O
+
+Design O
+all O
+questionnaires, O
+scripts, O
+scenarios, O
+interview O
+protocols, O
+etc O
+. O
+
+Blase O
+will O
+provide O
+funds O
+for O
+one O
+student O
+from O
+each O
+project O
+team O
+to O
+attend O
+the O
+SOUPS O
+conference O
+if O
+their O
+paper O
+or O
+poster O
+is O
+accepted O
+. O
+
+However, O
+your O
+report O
+for O
+the O
+class O
+need O
+not O
+adhere O
+to O
+the O
+SOUPS O
+page O
+limits O
+and O
+should O
+not O
+be O
+a O
+blind O
+submission; O
+please O
+include O
+the O
+names O
+of O
+the O
+authors O
+for O
+the O
+purposes O
+of O
+the O
+class O
+project O
+. O
+
+Introduction B-Course_title
+to I-Course_title
+Security I-Course_title
+
+Introduction B-Course_title
+to I-Course_title
+Privacy I-Course_title
+
+Cynthia B-Person
+Dwork I-Person
+. O
+
+09 O
+. O
+
+Ponnurangam B-Person
+Kumaraguru I-Person
+, O
+Steve B-Person
+Sheng I-Person
+, O
+Alessandro B-Person
+Acquisti I-Person
+, O
+Lorrie B-Person
+Faith I-Person
+Cranor I-Person
+, O
+Jason B-Person
+Hong I-Person
+. O
+
+Tousif B-Person
+Ahmed I-Person
+, O
+Patrick B-Person
+Shaffer I-Person
+, O
+Kay B-Person
+Connelly I-Person
+, O
+David B-Person
+Crandall I-Person
+, O
+Apu B-Person
+Kapadia I-Person
+. O
+
+Topics B-Course_title
+in I-Course_title
+Computer I-Course_title
+Security: I-Course_title
+Data-Driven I-Course_title
+Security I-Course_title
+and I-Course_title
+Privacy I-Course_title
+( O
+CMSC B-Course_number
+33251-1 I-Course_number
+) O
+
+• O
+Blase B-Person
+Ur I-Person
+blase@uchicago.edu B-Email
+Ryerson O
+157By O
+appointment O
+
+• O
+Mainack B-Person
+Mondal I-Person
+mainack@uchicago.edu B-Email
+Young O
+4th O
+FloorBy O
+appointment O
+
+Paragraph O
+2 O
+(+/-): O
+
+Project O
+groups O
+will O
+meet O
+with O
+Blase B-Person
+and O
+Mainack B-Person
+from O
+January O
+17th O
+-- O
+January O
+19th O
+to O
+refine O
+their O
+idea O
+. O
+
+Schedule O
+
+Required O
+readings: O
+
+Samaneh B-Person
+Tajalizadehkhoob I-Person
+, O
+Tom B-Person
+van I-Person
+Goethem I-Person
+, O
+Maciej B-Person
+Korczyński I-Person
+, O
+Arman B-Person
+Noroozian I-Person
+, O
+Rainer B-Person
+Böhme I-Person
+, O
+Tyler B-Person
+Moore I-Person
+, O
+Wouter B-Person
+Joosen I-Person
+, O
+Michel B-Person
+van I-Person
+Eeten I-Person
+. O
+
+18-335 B-Course_number
+/ O
+18-732 B-Course_number
+: O
+
+Secure B-Course_title
+Software I-Course_title
+Systems I-Course_title
+
+language-based O
+approaches O
+to O
+building O
+secure O
+software O
+(e.g., O
+type O
+systems, O
+proof-carrying O
+code) O
+. O
+
+Instructor: O
+Lujo B-Person
+Bauer I-Person
+
+Jay B-Person
+Bosamiya I-Person
+: O
+jayb B-Email
+-at- I-Email
+cs.cmu.edu I-Email
+
+Aymeric B-Person
+Fromherz I-Person
+: O
+afromher B-Email
+-at- I-Email
+andrew.cmu.edu I-Email
+
+Dhruvesh B-Person
+Rathore I-Person
+: O
+drathore B-Email
+-at- I-Email
+andrew.cmu.edu I-Email
+
+Dhruvesh B-Person
+Rathore I-Person
+: O
+Mondays O
+4:30-5:30 O
+PM O
+in O
+CIC B-Course_number
+2117 I-Course_number
+
+Jay B-Person
+Bosamiya I-Person
+/ O
+Aymeric B-Person
+Fromherz I-Person
+: O
+Wednesdays O
+4:30-5:30 O
+PM O
+in O
+CIC O
+2214 O
+
+18-732 B-Course_number
+: O
+Secure B-Course_title
+Software I-Course_title
+Systems I-Course_title
+
+Lujo B-Person
+Bauer I-Person
+
+Bryan B-Person
+Parno I-Person
+
+Aymeric B-Person
+Fromherz I-Person
+: O
+afromher B-Email
+-at- I-Email
+andrew.cmu.edu I-Email
+
+Nimit B-Person
+Shah I-Person
+: O
+nimitdis B-Email
+-at- I-Email
+andrew.cmu.edu I-Email
+
+Aymeric B-Person
+Fromherz I-Person
+: O
+Wednesdays, O
+3:00 O
+to O
+5:00 O
+PM O
+EST O
+in O
+CIC B-Course_number
+2214 I-Course_number
+
+Nimit B-Person
+Shah I-Person
+: O
+Tuesdays O
+and O
+Thursdays, O
+3:30 O
+to O
+4:30 O
+PM O
+EST O
+in O
+CIC B-Course_number
+2312 I-Course_number
+
+18732 B-Course_number
+-- O
+Secure B-Course_title
+Software I-Course_title
+Systems I-Course_title
+-- O
+Spring O
+2017 O
+
+Instructors: O
+Lujo B-Person
+Bauer I-Person
+
+William B-Person
+Melicher I-Person
+
+Josh B-Person
+Tan I-Person
+
+Satin B-Person
+Asri I-Person
+
+Deepanjana B-Person
+Gupta I-Person
+
+We O
+will O
+motivate O
+the O
+study O
+by O
+discussing O
+common O
+software O
+security O
+threats O
+(e.g., O
+buffer O
+overflow O
+attacks, O
+cross-site O
+scripting) O
+. O
+
+Georgios B-Person
+Portokalidis I-Person
+
+CS B-Course_number
+576 I-Course_number
+Systems B-Course_title
+Security I-Course_title
+
+Instructor O
+Georgios B-Person
+Portokalidis I-Person
+
+TA O
+Rahul B-Person
+Yadav I-Person
+
+Course O
+Schedule O
+
+( O
+Graduate O
+students O
+) O
+CS-631 B-Course_number
+Advanced B-Course_title
+Programming I-Course_title
+in I-Course_title
+the I-Course_title
+UNIX I-Course_title
+Environment I-Course_title
+or O
+
+( O
+Undergraduate O
+students O
+) O
+CS-306 B-Course_number
+Introduction B-Course_title
+to I-Course_title
+IT I-Course_title
+Security I-Course_title
+
+CS-392 B-Course_number
+Systems B-Course_title
+Programming I-Course_title
+
+Computer B-Textbook
+Security: I-Textbook
+Principles I-Textbook
+and I-Textbook
+Practice, I-Textbook
+3/E I-Textbook
+, O
+William B-Person
+Stallings I-Person
+, O
+Lawrie B-Person
+Brown I-Person
+ISBN-10: O
+0133773922 O
+• O
+ISBN-13: O
+9780133773927 O
+
+Security B-Textbook
+Engineering I-Textbook
+2nd I-Textbook
+Edition I-Textbook
+by O
+Ross B-Person
+Anderson I-Person
+
+The B-Textbook
+Shellcoder's I-Textbook
+Handbook: I-Textbook
+Discovering I-Textbook
+and I-Textbook
+Exploiting I-Textbook
+Security I-Textbook
+Holes, I-Textbook
+2nd I-Textbook
+Edition I-Textbook
+, O
+Chris B-Person
+Anley I-Person
+, O
+John B-Person
+Heasman I-Person
+, O
+Felix B-Person
+Lindner I-Person
+, O
+Gerardo B-Person
+Richarte I-Person
+, O
+ISBN: O
+978-0-470-08023-8 O
+
+Call O
+stack O
+
+11/19/18 O
+
+Georgios B-Person
+Portokalidis I-Person
+
+Home O
+
+CS B-Course_number
+576 I-Course_number
+Secure B-Course_title
+Systems I-Course_title
+
+Instructor O
+Georgios B-Person
+Portokalidis I-Person
+
+CS B-Course_number
+506 I-Course_number
+Introduction B-Course_title
+to I-Course_title
+IT I-Course_title
+Security I-Course_title
+
+CS B-Course_number
+577 I-Course_number
+(co-requisite) O
+
+CS B-Course_number
+590 I-Course_number
+(for O
+grads O
+) O
+
+or O
+CS B-Course_number
+385 I-Course_number
+
+( O
+undergrads O
+) O
+or O
+CS B-Course_number
+182 I-Course_number
+
+Computer B-Textbook
+Security I-Textbook
+- I-Textbook
+Principles I-Textbook
+and I-Textbook
+Practice I-Textbook
+3rd I-Textbook
+Edition I-Textbook
+by O
+Willam B-Person
+Stallings I-Person
+and O
+Lawrie B-Person
+Brown I-Person
+
+Georgios B-Person
+Portokalidis I-Person
+© O
+2019 O
+
+Introduction B-Textbook
+to I-Textbook
+Computer I-Textbook
+Security I-Textbook
+by O
+Michael B-Person
+Goodrich I-Person
+and O
+Roberto B-Person
+Tamassia I-Person
+
+Schwartz, B-Person
+R.L. I-Person
+, O
+Foy, B-Person
+B.D. I-Person
+& O
+Phoenix, B-Person
+T. I-Person
+(2011). O
+Learning B-Textbook
+Perl. I-Textbook
+O’Reilly O
+(6th O
+ed.) O
+. O
+
+Textbook: O
+Numerical B-Textbook
+Optimization I-Textbook
+. O
+
+Sukumar B-Person
+Ghosh I-Person
+, O
+Distributed B-Textbook
+Systems: I-Textbook
+An I-Textbook
+Algorithmic I-Textbook
+Approach, I-Textbook
+Second I-Textbook
+Edition I-Textbook
+, O
+Chapman O
+& O
+Hall O
+/CRC, O
+Computer O
+and O
+Information O
+Science O
+Series, O
+2014, O
+ISBN O
+978-1466552975 O
+. O
+
+Dieter B-Person
+Gollmann I-Person
+, O
+Computer B-Textbook
+Security I-Textbook
+. O
+[General O
+security O
+textbook. O
+Good O
+for O
+what O
+it O
+covers, O
+but O
+doesn't O
+cover O
+everything.] O
+
+CISSP B-Textbook
+All-in-One I-Textbook
+Exam I-Textbook
+Guide I-Textbook
+8ed I-Textbook
+. O
+Shon B-Person
+Harris I-Person
+, O
+Farnando B-Person
+Maymí I-Person
+
+Network B-Textbook
+Security I-Textbook
+- I-Textbook
+Private I-Textbook
+Communication I-Textbook
+in I-Textbook
+a I-Textbook
+Public I-Textbook
+World I-Textbook
+, O
+by O
+Charlie B-Person
+Kaufman I-Person
+, O
+Radia B-Person
+Perlman I-Person
+and O
+Mike B-Person
+Speciner I-Person
+, O
+2nd O
+Edition, O
+Prentice O
+Hall, O
+2002 O
+
+We'll O
+be O
+reading O
+Nine B-Textbook
+Algorithms I-Textbook
+That I-Textbook
+Changed I-Textbook
+The I-Textbook
+Future I-Textbook
+, O
+by O
+John B-Person
+MacCormick I-Person
+. O
+Other O
+readings O
+will O
+be O
+linked O
+on O
+the O
+website. O
+
+Starting B-Textbook
+Out I-Textbook
+with I-Textbook
+C++ I-Textbook
+From I-Textbook
+Control I-Textbook
+Structures I-Textbook
+Through I-Textbook
+Objects, I-Textbook
+8th I-Textbook
+ed. I-Textbook
+(ISBN: O
+9780133769395), O
+by O
+Gaddis, B-Person
+Tony I-Person
+. O
+Addison O
+Wesley O
+
+Cryptography B-Textbook
+and I-Textbook
+Network I-Textbook
+Security: I-Textbook
+Principles I-Textbook
+and I-Textbook
+Practice I-Textbook
+, O
+by O
+Willam B-Person
+Stallings I-Person
+. O
+
+Matt B-Person
+Bishop I-Person
+. O
+Introduction B-Textbook
+to I-Textbook
+Computer I-Textbook
+Security I-Textbook
+. O
+Addison-Wesley, O
+Boston, O
+MA, O
+2005. O
+ISBN O
+0-321-24744-2. O
+
+Anderson, B-Person
+R. I-Person
+J I-Person
+. O
+(2008). O
+Security B-Textbook
+Engineering, I-Textbook
+Wiley O
+(second O
+edition) O
+
+Main O
+textbook: O
+Network B-Textbook
+Management, I-Textbook
+Principles I-Textbook
+and I-Textbook
+Practice I-Textbook
+, O
+M. B-Person
+Subramanian I-Person
+, O
+Addison O
+Wesley O
+
+Computer B-Textbook
+Networking I-Textbook
+: I-Textbook
+A I-Textbook
+Top-Down I-Textbook
+Approach I-Textbook
+Featuring I-Textbook
+the I-Textbook
+Internet I-Textbook
+(Third I-Textbook
+edition) I-Textbook
+, O
+by O
+James B-Person
+Kurose I-Person
+and O
+Keith B-Person
+W. I-Person
+Ross. I-Person
+Published O
+by O
+Addison O
+Wesley, O
+2002. O
+
+Winskel, B-Person
+G. I-Person
+(1993). O
+The B-Textbook
+formal I-Textbook
+semantics I-Textbook
+of I-Textbook
+programming I-Textbook
+languages: I-Textbook
+an I-Textbook
+introduction I-Textbook
+. O
+MIT O
+Press O
+. O
+
+Florian B-Person
+Hahn I-Person
+, O
+Florian B-Person
+Kerschbaum I-Person
+: O
+Poly-Logarithmic B-Textbook
+Range I-Textbook
+Queries I-Textbook
+on I-Textbook
+Encrypted I-Textbook
+Data I-Textbook
+with I-Textbook
+Small I-Textbook
+Leakage I-Textbook
+
+Introduction B-Textbook
+to I-Textbook
+Modern I-Textbook
+Cryptography I-Textbook
+by O
+Katz B-Person
+and O
+Lindell B-Person
+. O
+A O
+copy O
+should O
+be O
+on O
+reserve O
+in O
+the O
+Rosengarten O
+Reserve O
+Room O
+in O
+the O
+Van O
+Pelt-Dietrich O
+Library O
+Center O
+. O
+
+Gollmann, B-Person
+D. I-Person
+(2010). O
+Computer B-Textbook
+security I-Textbook
+. O
+Wiley O
+(3rd O
+ed.) O
+. O
+
+Computer B-Textbook
+Networks: I-Textbook
+A I-Textbook
+Systems I-Textbook
+Approach, I-Textbook
+fourth I-Textbook
+edition I-Textbook
+, O
+by O
+Larry B-Person
+Peterson I-Person
+and O
+Bruce B-Person
+Davie I-Person
+. O
+
+Computer B-Textbook
+Security: I-Textbook
+Art I-Textbook
+and I-Textbook
+Science I-Textbook
+by O
+Matt B-Person
+Bishop I-Person
+(ISBN: O
+0-201-44099-7), O
+Addison-Wesley O
+2003 O
+
+Distributed B-Textbook
+Systems, I-Textbook
+Concepts I-Textbook
+and I-Textbook
+Design I-Textbook
+, O
+by O
+Coulouris B-Person
+, O
+Dollimore B-Person
+, O
+and O
+Kindberg B-Person
+, O
+5th O
+ed. O
+
+We O
+will O
+be O
+using O
+the O
+online O
+textbook O
+" O
+Programming B-Textbook
+in I-Textbook
+Java I-Textbook
+w/zyLabs I-Textbook
+" O
+by O
+Lysecky B-Person
+& O
+Lizarraga B-Person
+from O
+https://learn.zybooks.com. O
+To O
+purchase O
+the O
+textbook: O
+
+J.C. B-Person
+Cannon I-Person
+. O
+Privacy B-Textbook
+in I-Textbook
+Technology: I-Textbook
+Standards I-Textbook
+and I-Textbook
+Practices I-Textbook
+for I-Textbook
+Engineers I-Textbook
+and I-Textbook
+Security I-Textbook
+and I-Textbook
+IT I-Textbook
+Professionals I-Textbook
+. O
+IAPP: O
+2014 O
+. O
+
+The B-Textbook
+Java I-Textbook
+Tutorial: I-Textbook
+A I-Textbook
+Short I-Textbook
+Course I-Textbook
+on I-Textbook
+the I-Textbook
+Basics I-Textbook
+(5th I-Textbook
+Edition) I-Textbook
+
+Textbook: O
+Cryptography B-Textbook
+and I-Textbook
+Network I-Textbook
+Security: I-Textbook
+Principles I-Textbook
+and I-Textbook
+Practice, I-Textbook
+7th I-Textbook
+edition I-Textbook
+, O
+by O
+William B-Person
+Stallings I-Person
+
+Web B-Textbook
+Application I-Textbook
+Security, I-Textbook
+A I-Textbook
+Beginner's I-Textbook
+Guide I-Textbook
+(1st I-Textbook
+ed.) I-Textbook
+by O
+Brian B-Person
+Sullivan I-Person
+and O
+Vincent B-Person
+Lu I-Person
+, O
+McGraw-Hill O
+Osborne O
+Media O
+(2011) O
+ISBN O
+978-0071776165 O
+(Required). O
+
+Operating B-Textbook
+System I-Textbook
+Concepts I-Textbook
+(9th I-Textbook
+edition) I-Textbook
+, O
+Abraham B-Person
+Silberschatz I-Person
+, O
+Peter B-Person
+B. I-Person
+Galvin I-Person
+and O
+Greg B-Person
+Gagne I-Person
+, O
+2012 O
+
+Cheswick, B-Person
+W. I-Person
+, O
+Bellovin, B-Person
+S. I-Person
+, O
+and O
+Rubin, B-Person
+A. I-Person
+, O
+Firewalls B-Textbook
+and I-Textbook
+Internet I-Textbook
+Security: I-Textbook
+Repelling I-Textbook
+the I-Textbook
+Wily I-Textbook
+Hacker I-Textbook
+, O
+Addison-Wesley, O
+2002 O
+. O
+
+Handbook B-Textbook
+of I-Textbook
+Applied I-Textbook
+Cryptography I-Textbook
+, O
+by O
+Alfred B-Person
+J. I-Person
+Menezes I-Person
+, O
+Paul B-Person
+C. I-Person
+van I-Person
+Oorschot I-Person
+, O
+and O
+Scott B-Person
+A. I-Person
+Vanstone I-Person
+. O
+CRC O
+Press, O
+1996. O
+
+Bruce B-Person
+Schneier I-Person
+. O
+Applied B-Textbook
+Cryptography. I-Textbook
+Second I-Textbook
+Edition I-Textbook
+. O
+Wiley, O
+1996. O
+
+Traveler's B-Textbook
+Guide I-Textbook
+to I-Textbook
+the I-Textbook
+Internet I-Textbook
+by O
+Wayne B-Person
+Summers I-Person
+[available O
+online] O
+or O
+other O
+Internet O
+book O
+
+Industrial B-Textbook
+Network I-Textbook
+Security, I-Textbook
+Securing I-Textbook
+Critical I-Textbook
+Infrastructure I-Textbook
+Networks I-Textbook
+for I-Textbook
+Smart I-Textbook
+Grid, I-Textbook
+SCADA, I-Textbook
+and I-Textbook
+Other I-Textbook
+Industrial I-Textbook
+Control I-Textbook
+Systems I-Textbook
+(2nd I-Textbook
+Edition) I-Textbook
+, O
+by O
+Eric B-Person
+D. I-Person
+Knapp I-Person
+and O
+Joel B-Person
+Thomas I-Person
+Langill I-Person
+, O
+ISBN: O
+978-0124201149 O
+
+K. B-Person
+Mitnick I-Person
+and O
+W. B-Person
+L. I-Person
+Simon I-Person
+. O
+Ghost B-Textbook
+in I-Textbook
+the I-Textbook
+Wires: I-Textbook
+My I-Textbook
+Adventures I-Textbook
+as I-Textbook
+the I-Textbook
+World's I-Textbook
+Most I-Textbook
+Wanted I-Textbook
+Hacker. I-Textbook
+2011 O
+. O
+
+The O
+required O
+textbook O
+for O
+the O
+course O
+is O
+Computer B-Textbook
+Networks, I-Textbook
+third I-Textbook
+edition I-Textbook
+, O
+by O
+Andrew B-Person
+Tanenbaum I-Person
+. O
+It O
+is O
+available O
+in O
+the O
+CMU O
+Bookstore. O
+
+Introduction B-Textbook
+to I-Textbook
+Computer I-Textbook
+Security I-Textbook
+, O
+by O
+Goodrich B-Person
+and O
+Tamassia B-Person
+, O
+ISBN: O
+978-0321512949 O
+
+Recommended O
+textbook: O
+" O
+Network B-Textbook
+Security: I-Textbook
+Private I-Textbook
+Communication I-Textbook
+in I-Textbook
+a I-Textbook
+Public I-Textbook
+World I-Textbook
+(2nd I-Textbook
+edition) I-Textbook
+", O
+by O
+C. B-Person
+Kaufman I-Person
+, O
+R. B-Person
+Perlman I-Person
+, O
+M. B-Person
+Speciner I-Person
+, O
+Prentice O
+Hall O
+2002 O
+(ISBN O
+0130460192). O
+
+Introduction B-Textbook
+to I-Textbook
+Computer I-Textbook
+Security I-Textbook
+by O
+Matt B-Person
+Bishop I-Person
+
+Security B-Textbook
+in I-Textbook
+Computing I-Textbook
+by O
+Charles B-Person
+P. I-Person
+Pfleeger I-Person
+
+Ben-Ari, B-Person
+M. I-Person
+(2001). O
+Mathematical B-Textbook
+logic I-Textbook
+for I-Textbook
+computer I-Textbook
+science I-Textbook
+. O
+Springer O
+(2nd O
+ed.) O
+. O
+
+Required O
+Textbook: O
+Computer B-Textbook
+Networks: I-Textbook
+A I-Textbook
+Systems I-Textbook
+Approach I-Textbook
+(4th I-Textbook
+edition) I-Textbook
+, O
+by O
+Larry B-Person
+Peterson I-Person
+and O
+Bruce B-Person
+Davie I-Person
+
+Main O
+textbook: O
+Operating B-Textbook
+System I-Textbook
+Concepts I-Textbook
+, O
+A. B-Person
+Silberschatz I-Person
+, O
+P.B. B-Person
+Galvin I-Person
+and O
+G. B-Person
+Gagne I-Person
+, O
+Ninth O
+Edition O
+(any O
+edition O
+of O
+this O
+book O
+beyond O
+the O
+Fifth O
+edition O
+will O
+suffice) O
+. O
+
+� O
+For O
+the O
+network O
+management O
+part O
+of O
+the O
+class: O
+� O
+Network B-Textbook
+Management, I-Textbook
+Principles I-Textbook
+and I-Textbook
+Practice I-Textbook
+�, O
+by O
+M. B-Person
+Subramanian I-Person
+, O
+Addison O
+Wesley, O
+2000 O
+(ISBN O
+0201357429) O
+
+Inside B-Textbook
+Network I-Textbook
+Perimeter I-Textbook
+Security I-Textbook
+, O
+by O
+Stephen B-Person
+Northcutt I-Person
+et O
+al. O
+2nd O
+edition. O
+Sans O
+Institute O
+Press. O
+
+Matt B-Person
+Bishop I-Person
+, O
+Computer B-Textbook
+Security: I-Textbook
+Art I-Textbook
+and I-Textbook
+Science I-Textbook
+Addison O
+Wesley, O
+2003. O
+
+J. B-Person
+Bamford I-Person
+, O
+" O
+Body B-Textbook
+of I-Textbook
+Secrets: I-Textbook
+Anatomy I-Textbook
+of I-Textbook
+NSA I-Textbook
+" O
+2001 O
+
+Introduction B-Textbook
+to I-Textbook
+Modern I-Textbook
+Cryptography I-Textbook
+by O
+Katz B-Person
+and O
+Lindell B-Person
+. O
+A O
+comprehensive O
+introductory-level O
+textbook O
+covering O
+both O
+theory O
+and O
+practice O
+. O
+
+Internet B-Textbook
+Denial I-Textbook
+of I-Textbook
+Service, I-Textbook
+Attack I-Textbook
+and I-Textbook
+Defense I-Textbook
+Mechanisms I-Textbook
+, O
+by O
+Jelena B-Person
+Mirkovich I-Person
+et O
+al. O
+Prentice O
+Hall. O
+
+Introduction B-Textbook
+to I-Textbook
+Modern I-Textbook
+Cryptography I-Textbook
+by O
+Katz B-Person
+and O
+Lindell B-Person
+. O
+A O
+copy O
+should O
+be O
+on O
+reserve O
+in O
+the O
+Rosengarten O
+Reserve O
+Room O
+in O
+the O
+Van O
+Pelt-Dietrich O
+Library O
+Center O
+. O
+
+For O
+the O
+programming O
+assignments, O
+the O
+books O
+TCP/IP B-Textbook
+Illustrated, I-Textbook
+Volume I-Textbook
+1: I-Textbook
+The I-Textbook
+Protocols I-Textbook
+
+Unix B-Textbook
+Network I-Textbook
+Programming, I-Textbook
+Volume I-Textbook
+1: I-Textbook
+The I-Textbook
+Sockets I-Textbook
+Networking I-Textbook
+API I-Textbook
+(3rd I-Textbook
+Edition) I-Textbook
+would O
+be O
+useful O
+as O
+reference. O
+
+Introduction B-Textbook
+to I-Textbook
+Modern I-Textbook
+Cryptography I-Textbook
+by O
+Bellare B-Person
+and O
+Rogaway B-Person
+. O
+Online O
+course O
+notes O
+for O
+an O
+introductory O
+course O
+. O
+
+Matt B-Person
+Bishop I-Person
+. O
+Introduction B-Textbook
+to I-Textbook
+Computer I-Textbook
+Security I-Textbook
+. O
+Addison-Wesley, O
+Boston, O
+MA, O
+2005. O
+ISBN O
+0-321-24744-2. O
+
+Java B-Textbook
+SE I-Textbook
+7 I-Textbook
+API I-Textbook
+specification I-Textbook
+[Online] O
+
+Computer B-Textbook
+Networking: I-Textbook
+A I-Textbook
+Top-Down I-Textbook
+Approach I-Textbook
+(6th I-Textbook
+edition) I-Textbook
+, O
+by O
+James B-Person
+F. I-Person
+Kurose I-Person
+and O
+Keith B-Person
+W. I-Person
+Ross I-Person
+
+Cryptography B-Textbook
+Engineering I-Textbook
+by O
+Ferguson B-Person
+, O
+Schneier B-Person
+, O
+and O
+Kohno B-Person
+. O
+A O
+practice-oriented O
+introductory O
+text O
+. O
+
+Jonathan B-Person
+Katz I-Person
+and O
+Yehuda B-Person
+Lindell I-Person
+. O
+An B-Textbook
+Introduction I-Textbook
+to I-Textbook
+Modern I-Textbook
+Cryptography I-Textbook
+. O
+
+The B-Textbook
+Handbook I-Textbook
+of I-Textbook
+Applied I-Textbook
+Cryptography I-Textbook
+by O
+Menezes B-Person
+, O
+van B-Person
+Oorschot I-Person
+, O
+and O
+Vanstone B-Person
+. O
+
+Gartee B-Person
+R. I-Person
+(2016). O
+Electronic B-Textbook
+Health I-Textbook
+Records I-Textbook
+(3rd I-Textbook
+Edition) I-Textbook
+. O
+Pearson, O
+(ISBN-13: O
+978-0-13-425750-1) O
+- O
+Reference O
+
+Book: O
+Kurose B-Person
+and O
+Ross B-Person
+- O
+Computer B-Textbook
+Networking: I-Textbook
+A I-Textbook
+Top-Down I-Textbook
+Approach, I-Textbook
+6th I-Textbook
+Edition I-Textbook
+
+Computer B-Textbook
+Networks: I-Textbook
+A I-Textbook
+Top-Down I-Textbook
+Approach I-Textbook
+(6th I-Textbook
+Edition) I-Textbook
+by O
+Kurose B-Person
+& O
+Ross B-Person
+
+An B-Textbook
+Introduction I-Textbook
+to I-Textbook
+Mathematical I-Textbook
+Cryptography I-Textbook
+by O
+Hoffstein B-Person
+, O
+Pipher B-Person
+, O
+and O
+Silverman B-Person
+. O
+A O
+mathematically-oriented O
+introductory O
+text O
+. O
+
+Operating B-Textbook
+System I-Textbook
+Concepts, I-Textbook
+8th I-Textbook
+Edition I-Textbook
+( O
+Silberschatz B-Person
+, O
+Galvin B-Person
+, O
+Gagne B-Person
+), O
+(S&G) O
+2009 O
+is O
+comparable O
+. O
+
+Jaeger B-Person
+, I-Person
+T. I-Person
+, O
+Operating B-Textbook
+Systems I-Textbook
+Security, I-Textbook
+Morgan O
+& O
+Claypool, O
+2008 O
+. O
+(Penn O
+State O
+and O
+I O
+will O
+provide O
+online) O
+
+Optional: O
+Dimitri B-Person
+Bertsekas I-Person
+and O
+Robert B-Person
+Gallager I-Person
+Data B-Textbook
+Networks I-Textbook
+(2nd I-Textbook
+ed.) I-Textbook
+, O
+Prentice O
+Hall, O
+1992. O
+ISBN O
+0-13-200916-1. O
+Significant O
+mathematical O
+treatment O
+(graduate O
+6000 O
+level O
+- O
+practical O
+stuff O
+a O
+bit O
+out O
+of O
+date). O
+
+Pierce, B-Person
+B. I-Person
+C. I-Person
+(Ed.) O
+(2005). O
+Advanced B-Textbook
+Topics I-Textbook
+in I-Textbook
+Types I-Textbook
+and I-Textbook
+Programming I-Textbook
+Languages I-Textbook
+. O
+MIT O
+Press O
+. O
+
+Modern B-Textbook
+Operating I-Textbook
+System I-Textbook
+, O
+Andrew B-Person
+S. I-Person
+Tanebaum I-Person
+, O
+4th O
+Edition O
+, O
+Amazon O
+Link O
+
+Handbook B-Textbook
+of I-Textbook
+Applied I-Textbook
+Cryptography I-Textbook
+by O
+Menezes B-Person
+, O
+van B-Person
+Oorschot I-Person
+, O
+and O
+Vanstone B-Person
+
+Security B-Textbook
+in I-Textbook
+Computing I-Textbook
+Pfleeger B-Person
+and O
+Pfleeger B-Person
+(3rd O
+edition) O
+ISBN O
+978-0-132-39077-4 O
+
+The B-Textbook
+Shellcoder's I-Textbook
+Handbook: I-Textbook
+Discovering I-Textbook
+and I-Textbook
+Exploiting I-Textbook
+Security I-Textbook
+Holes, I-Textbook
+2nd I-Textbook
+Edition I-Textbook
+, O
+Chris B-Person
+Anley I-Person
+, O
+John B-Person
+Heasman I-Person
+, O
+Felix B-Person
+Lindner I-Person
+, O
+Gerardo B-Person
+Richarte I-Person
+, O
+ISBN: O
+978-0-470-08023-8 O
+
+Peterson, B-Person
+L.L. I-Person
+and O
+Davie, B-Person
+B.S. I-Person
+(2007). O
+Computer B-Textbook
+Networks I-Textbook
+-- I-Textbook
+A I-Textbook
+Systems I-Textbook
+Approach. I-Textbook
+(4th I-Textbook
+edition) I-Textbook
+. O
+Morgan O
+Kaufmann. O
+
+Android B-Textbook
+Cookbook I-Textbook
+edited O
+by O
+Ian B-Person
+F. I-Person
+Darwin I-Person
+(O'Reilly) O
+
+Building B-Textbook
+Secure I-Textbook
+Software: I-Textbook
+How I-Textbook
+to I-Textbook
+avoid I-Textbook
+the I-Textbook
+Security I-Textbook
+Problems I-Textbook
+the I-Textbook
+Right I-Textbook
+Way I-Textbook
+, O
+John B-Person
+Viega I-Person
+, O
+Gary B-Person
+McGraw I-Person
+, O
+Addison-Wesley, O
+2002 O
+
+T. B-Person
+H. I-Person
+Cormen I-Person
+, O
+C. B-Person
+E. I-Person
+Leiserson I-Person
+, O
+R. B-Person
+L. I-Person
+Rivest I-Person
+, O
+C. B-Person
+Stein I-Person
+: O
+Introduction B-Textbook
+to I-Textbook
+Algorithms. I-Textbook
+
+Peer-to-Peer: B-Textbook
+Harnessing I-Textbook
+the I-Textbook
+Power I-Textbook
+of I-Textbook
+Disruptive I-Textbook
+Technologies I-Textbook
+, O
+by O
+Andy B-Person
+Oram I-Person
+
+Keith B-Person
+J. I-Person
+Jones I-Person
+, O
+Richard B-Person
+Bejtlich I-Person
+, O
+Curtis B-Person
+W. I-Person
+Rose I-Person
+, O
+Dan B-Person
+Farmer I-Person
+, O
+Wietse B-Person
+Venema I-Person
+, O
+Brian B-Person
+Carrier I-Person
+, O
+Computer B-Textbook
+Forensics I-Textbook
+Library I-Textbook
+Boxed I-Textbook
+Set I-Textbook
+(contains O
+Forensic O
+Discovery, O
+Real O
+Digital O
+Forensics, O
+and O
+File O
+System O
+Forensic O
+Analysis), O
+Addison-Wesley O
+Professional O
+
+Introduction B-Textbook
+to I-Textbook
+Computer I-Textbook
+Security I-Textbook
+by O
+Michael B-Person
+Goodrich I-Person
+and O
+Roberto B-Person
+Tamassia I-Person
+
+Stallings B-Person
+and O
+Brown B-Person
+, O
+Computer B-Textbook
+Security I-Textbook
+(Required), O
+Any O
+edition O
+ISBN: O
+9780134794105 O
+
+Trent B-Person
+Jaeger I-Person
+, O
+Operating B-Textbook
+System I-Textbook
+Security, I-Textbook
+1st I-Textbook
+edition I-Textbook
+, O
+Morgan O
+and O
+Claypool, O
+2008 O
+. O
+
+Steven B-Person
+Levy I-Person
+, O
+Crypto B-Textbook
+. O
+
+Computer B-Textbook
+Security: I-Textbook
+Principles I-Textbook
+and I-Textbook
+Practice, I-Textbook
+3/E I-Textbook
+, O
+William B-Person
+Stallings I-Person
+, O
+Lawrie B-Person
+Brown I-Person
+ISBN-10: O
+0133773922 O
+• O
+ISBN-13: O
+9780133773927 O
+
+Pfleefer, B-Person
+C. I-Person
+and O
+Pfleeger, B-Person
+S. I-Person
+Security B-Textbook
+in I-Textbook
+Computing I-Textbook
+3rd I-Textbook
+Ed. I-Textbook
+Prentice-Hall, O
+2002 O
+- O
+available O
+from O
+many O
+sources O
+
+Chris B-Person
+Eagle I-Person
+, O
+The B-Textbook
+IDA I-Textbook
+Pro I-Textbook
+Book: I-Textbook
+The I-Textbook
+Unofficial I-Textbook
+Guide I-Textbook
+to I-Textbook
+the I-Textbook
+World's I-Textbook
+Most I-Textbook
+Popular I-Textbook
+Disassembler I-Textbook
+, O
+No O
+Starch O
+Press O
+
+Stallings B-Person
+, O
+Network B-Textbook
+Security I-Textbook
+Essentials: I-Textbook
+Applications I-Textbook
+and I-Textbook
+Standards I-Textbook
+(2 I-Textbook
+edition) I-Textbook
+, O
+Prentice O
+Hall, O
+2002. O
+ISBN O
+0-13-035128-8 O
+(required) O
+(comment: O
+Used O
+in O
+8843, O
+Fall O
+2003, O
+for O
+Special O
+Topic: O
+Network O
+Security) O
+
+Introduction B-Textbook
+to I-Textbook
+Modern I-Textbook
+Cryptography I-Textbook
+by O
+Bellare B-Person
+and O
+Rogaway B-Person
+. O
+Online O
+course O
+notes O
+for O
+an O
+introductory O
+course O
+. O
+
+Architecture B-Textbook
+of I-Textbook
+Network I-Textbook
+Systems I-Textbook
+by O
+Dimitrios B-Person
+N. I-Person
+Serpanos I-Person
+and O
+Tilman B-Person
+Wolf I-Person
+, O
+Morgan O
+Kaufmann O
+Publishers, O
+2011. O
+

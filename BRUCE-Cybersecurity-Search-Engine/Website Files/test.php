@@ -20,7 +20,7 @@ try {
         ]
     ];
     $mongoQuery = new MongoDB\Driver\Query($filter, $options);
-    $cursor = $mng->executeQuery("users.mar1819courses",$mongoQuery);
+    $cursor = $mng->executeQuery("users.nov2019",$mongoQuery);
     
     $i = 0;
     $total = array();
